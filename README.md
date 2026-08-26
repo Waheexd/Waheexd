@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Waheed! 👋
+# Hi there, I'm Mohammed Waheed! 
 
 <p align="center">
   <img src="github-banner.jpg" alt="Mohammed Waheed Banner" width="100%" />
